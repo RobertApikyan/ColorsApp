@@ -1,2 +1,3 @@
 # ColorsApp
-ColorsApp is designed to demonstrate LifecycleMvp architecture  usage and features 
+
+ColorsApp is designed to demonstrate LifecycleMvp architecture  usage and features.
